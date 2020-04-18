@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1781.632" height="911.661" viewBox="0 0 1781.632 911.661">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_685" data-name="Rectangle 685" width="1753" height="851" transform="translate(-64.634 4173.949) rotate(2)" fill="#fcb300"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1027" data-name="Group 1027" transform="translate(94.333 -4425.949)">
+    <rect id="Rectangle_684" data-name="Rectangle 684" width="1753" height="851" transform="translate(-64.634 4425.949) rotate(2)" fill="#fcb300"/>
+    <g id="Mask_Group_282" data-name="Mask Group 282" transform="translate(0 252)" opacity="0.5" clip-path="url(#clip-path)">
+      <g id="Ellipse_231" data-name="Ellipse 231" transform="translate(-334 4669)" fill="#fff" stroke="#000" stroke-width="150" opacity="0.07">
+        <circle cx="292" cy="292" r="292" stroke="none"/>
+        <circle cx="292" cy="292" r="217" fill="none"/>
+      </g>
+    </g>
+    <g id="Mask_Group_280" data-name="Mask Group 280" transform="translate(0 252)" opacity="0.66" clip-path="url(#clip-path)">
+      <g id="Ellipse_230" data-name="Ellipse 230" transform="translate(1139 4555)" fill="#fff" stroke="#000" stroke-width="190" opacity="0.07">
+        <circle cx="366" cy="366" r="366" stroke="none"/>
+        <circle cx="366" cy="366" r="271" fill="none"/>
+      </g>
+    </g>
+    <g id="Mask_Group_281" data-name="Mask Group 281" transform="translate(0 252)" opacity="0.4" clip-path="url(#clip-path)">
+      <g id="Path_3610" data-name="Path 3610" transform="translate(19 3871)" fill="rgba(0,0,0,0)" opacity="0.2">
+        <path d="M 326 577 C 187.5981597900391 577 75 464.40185546875 75 326 C 75 187.5981597900391 187.5981597900391 75 326 75 C 464.40185546875 75 577 187.5981597900391 577 326 C 577 464.40185546875 464.40185546875 577 326 577 Z" stroke="none"/>
+        <path d="M 326 150 C 228.9531860351563 150 150 228.9531860351563 150 326 C 150 423.0468139648438 228.9531860351563 502 326 502 C 423.0468139648438 502 502 423.0468139648438 502 326 C 502 228.9531860351563 423.0468139648438 150 326 150 M 326 0 C 506.0447692871094 0 652 145.9552307128906 652 326 C 652 506.0447692871094 506.0447692871094 652 326 652 C 145.9552307128906 652 0 506.0447692871094 0 326 C 0 145.9552307128906 145.9552307128906 0 326 0 Z" stroke="none" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

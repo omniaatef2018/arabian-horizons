@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.75" height="16.773" viewBox="0 0 20.75 16.773">
+  <g id="Group_270" data-name="Group 270" transform="translate(-1104.25 -24.25)">
+    <g id="shopping-cart_1_" data-name="shopping-cart (1)" transform="translate(1104 24)">
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="0.727" cy="0.727" r="0.727" transform="translate(6.091 14.818)" stroke-width="1.5" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="0.727" cy="0.727" r="0.727" transform="translate(14.091 14.818)" stroke-width="1.5" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path id="Path_49" data-name="Path 49" d="M1,1H3.909l1.949,9.738a1.455,1.455,0,0,0,1.455,1.171h7.069a1.455,1.455,0,0,0,1.455-1.171L17,4.636H4.636" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <circle id="Ellipse_19" data-name="Ellipse 19" cx="4" cy="4" r="4" transform="translate(1117 25)" fill="red"/>
+  </g>
+</svg>

@@ -1,0 +1,3 @@
+http://localhost/ahtfront/category.php
+http://localhost/ahtfront/activities.php
+http://localhost/ahtfront/details.php
